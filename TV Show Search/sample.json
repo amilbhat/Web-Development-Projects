@@ -1,0 +1,586 @@
+[
+    {
+    "score": 0.9087841,
+    "show": {
+    "id": 52336,
+    "url": "https://www.tvmaze.com/shows/52336/alien",
+    "name": "Alien",
+    "type": "Scripted",
+    "language": "English",
+    "genres": [
+    "Horror",
+    "Science-Fiction"
+    ],
+    "status": "In Development",
+    "runtime": null,
+    "averageRuntime": null,
+    "premiered": null,
+    "ended": null,
+    "officialSite": null,
+    "schedule": {
+    "time": "",
+    "days": []
+    },
+    "rating": {
+    "average": 7.8
+    },
+    "weight": 99,
+    "network": {
+    "id": 13,
+    "name": "FX",
+    "country": {
+    "name": "United States",
+    "code": "US",
+    "timezone": "America/New_York"
+    },
+    "officialSite": null
+    },
+    "webChannel": null,
+    "dvdCountry": null,
+    "externals": {
+    "tvrage": null,
+    "thetvdb": 393223,
+    "imdb": "tt13623632"
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/288/721779.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/288/721779.jpg"
+    },
+    "summary": "<p><b>Alien</b> is currently in development at FX. The first TV series based on the classic film series is helmed by Fargo and Legion's Noah Hawley. Expect a scary thrill ride set not too far in the future here on Earth. </p>",
+    "updated": 1682981320,
+    "_links": {
+    "self": {
+    "href": "https://api.tvmaze.com/shows/52336"
+    }
+    }
+    }
+    },
+    {
+    "score": 0.7019841,
+    "show": {
+    "id": 36947,
+    "url": "https://www.tvmaze.com/shows/36947/resident-alien",
+    "name": "Resident Alien",
+    "type": "Scripted",
+    "language": "English",
+    "genres": [
+    "Drama",
+    "Comedy",
+    "Science-Fiction"
+    ],
+    "status": "Running",
+    "runtime": 60,
+    "averageRuntime": 60,
+    "premiered": "2021-01-27",
+    "ended": null,
+    "officialSite": "https://www.syfy.com/resident-alien",
+    "schedule": {
+    "time": "22:00",
+    "days": [
+    "Wednesday"
+    ]
+    },
+    "rating": {
+    "average": 7.9
+    },
+    "weight": 99,
+    "network": {
+    "id": 16,
+    "name": "Syfy",
+    "country": {
+    "name": "United States",
+    "code": "US",
+    "timezone": "America/New_York"
+    },
+    "officialSite": null
+    },
+    "webChannel": null,
+    "dvdCountry": null,
+    "externals": {
+    "tvrage": null,
+    "thetvdb": 368166,
+    "imdb": "tt8690918"
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/392/982009.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/392/982009.jpg"
+    },
+    "summary": "<p><b>Resident Alien</b> is a dark, twisted and comedic fish-out-of-water story that follows a crash-landed alien named Harry who, after taking on the identity of a small-town Colorado doctor, slowly begins to wrestle with the moral dilemma of his secret mission on Earth — ultimately asking the question, \"Are human beings worth saving?\"</p>",
+    "updated": 1693499439,
+    "_links": {
+    "self": {
+    "href": "https://api.tvmaze.com/shows/36947"
+    },
+    "previousepisode": {
+    "href": "https://api.tvmaze.com/episodes/2369820"
+    }
+    }
+    }
+    },
+    {
+    "score": 0.6971154,
+    "show": {
+    "id": 3646,
+    "url": "https://www.tvmaze.com/shows/3646/alien-nation",
+    "name": "Alien Nation",
+    "type": "Scripted",
+    "language": "English",
+    "genres": [
+    "Drama",
+    "Science-Fiction"
+    ],
+    "status": "Ended",
+    "runtime": 60,
+    "averageRuntime": 63,
+    "premiered": "1989-09-18",
+    "ended": "1997-07-29",
+    "officialSite": null,
+    "schedule": {
+    "time": "",
+    "days": [
+    "Monday"
+    ]
+    },
+    "rating": {
+    "average": 7.2
+    },
+    "weight": 88,
+    "network": {
+    "id": 4,
+    "name": "FOX",
+    "country": {
+    "name": "United States",
+    "code": "US",
+    "timezone": "America/New_York"
+    },
+    "officialSite": "https://www.fox.com/"
+    },
+    "webChannel": null,
+    "dvdCountry": null,
+    "externals": {
+    "tvrage": 2543,
+    "thetvdb": 72358,
+    "imdb": "tt0096531"
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/18/47270.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/18/47270.jpg"
+    },
+    "summary": "<p>As Newcomers -- fugitive slaves from the planet Tencton -- Detective George Francisco and his family face prejudice and intolerance as they struggle to assimilate to life on their adopted planet. Together with his human partner, hard-edged Detective Matt Sikes, George walks the beat in Slagtown, Los Angeles, a Newcomer slum teeming with vice and corruption. More than just another cop show or science fiction show, <b>Alien Nation</b> utilizes a unique and exciting blend of action, suspense, humor, and social drama to explore the sociology of what it means to be an outsider striving to fit in.</p>",
+    "updated": 1694908112,
+    "_links": {
+    "self": {
+    "href": "https://api.tvmaze.com/shows/3646"
+    },
+    "previousepisode": {
+    "href": "https://api.tvmaze.com/episodes/1466726"
+    }
+    }
+    }
+    },
+    {
+    "score": 0.6969298,
+    "show": {
+    "id": 51927,
+    "url": "https://www.tvmaze.com/shows/51927/alien-worlds",
+    "name": "Alien Worlds",
+    "type": "Documentary",
+    "language": "English",
+    "genres": [
+    "Science-Fiction",
+    "Nature"
+    ],
+    "status": "Ended",
+    "runtime": null,
+    "averageRuntime": 44,
+    "premiered": "2020-12-02",
+    "ended": "2020-12-02",
+    "officialSite": "https://www.netflix.com/title/80221410",
+    "schedule": {
+    "time": "",
+    "days": []
+    },
+    "rating": {
+    "average": 7.7
+    },
+    "weight": 86,
+    "network": null,
+    "webChannel": {
+    "id": 1,
+    "name": "Netflix",
+    "country": null,
+    "officialSite": "https://www.netflix.com/"
+    },
+    "dvdCountry": null,
+    "externals": {
+    "tvrage": null,
+    "thetvdb": 391877,
+    "imdb": "tt13464340"
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/287/719881.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/287/719881.jpg"
+    },
+    "summary": "<p>Applying the laws of life on Earth to the rest of the galaxy, this series blends science fact and fiction to imagine alien life on other planets.</p>",
+    "updated": 1648328810,
+    "_links": {
+    "self": {
+    "href": "https://api.tvmaze.com/shows/51927"
+    },
+    "previousepisode": {
+    "href": "https://api.tvmaze.com/episodes/1978291"
+    }
+    }
+    }
+    },
+    {
+    "score": 0.69598216,
+    "show": {
+    "id": 42591,
+    "url": "https://www.tvmaze.com/shows/42591/alien-highway",
+    "name": "Alien Highway",
+    "type": "Documentary",
+    "language": "English",
+    "genres": [
+    "Mystery"
+    ],
+    "status": "Ended",
+    "runtime": 60,
+    "averageRuntime": 60,
+    "premiered": "2019-06-12",
+    "ended": "2019-07-31",
+    "officialSite": "https://www.travelchannel.com/shows/alien-highway",
+    "schedule": {
+    "time": "22:00",
+    "days": [
+    "Wednesday"
+    ]
+    },
+    "rating": {
+    "average": 6.3
+    },
+    "weight": 86,
+    "network": {
+    "id": 82,
+    "name": "Travel Channel",
+    "country": {
+    "name": "United States",
+    "code": "US",
+    "timezone": "America/New_York"
+    },
+    "officialSite": null
+    },
+    "webChannel": null,
+    "dvdCountry": null,
+    "externals": {
+    "tvrage": null,
+    "thetvdb": 365460,
+    "imdb": "tt10379670"
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/201/504800.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/201/504800.jpg"
+    },
+    "summary": "<p>There are tens of thousands of reported UFO sightings in the United States alone, and yet, to this day, the government still refuses to acknowledge their existence. One of the many working to expose the truth is former Colorado law enforcement officer Chuck Zukowski, who has been investigating UFO-related incidents for over 30 years. Now, together with his son, Daniel, and investigator Heather Taddy, he is pursuing the cases the authorities ignore, finding evidence others have missed, listening to witnesses who are otherwise afraid to come forward and searching for definitive proof of UFOs … all along America's infamous Alien Highway.</p>",
+    "updated": 1638477579,
+    "_links": {
+    "self": {
+    "href": "https://api.tvmaze.com/shows/42591"
+    },
+    "previousepisode": {
+    "href": "https://api.tvmaze.com/episodes/1683978"
+    }
+    }
+    }
+    },
+    {
+    "score": 0.69459707,
+    "show": {
+    "id": 48640,
+    "url": "https://www.tvmaze.com/shows/48640/alien-tv",
+    "name": "Alien TV",
+    "type": "Animation",
+    "language": "English",
+    "genres": [
+    "Comedy",
+    "Children",
+    "Science-Fiction"
+    ],
+    "status": "Ended",
+    "runtime": null,
+    "averageRuntime": 24,
+    "premiered": "2020-08-21",
+    "ended": "2021-03-19",
+    "officialSite": "https://www.netflix.com/title/81003682",
+    "schedule": {
+    "time": "",
+    "days": []
+    },
+    "rating": {
+    "average": null
+    },
+    "weight": 83,
+    "network": null,
+    "webChannel": {
+    "id": 1,
+    "name": "Netflix",
+    "country": null,
+    "officialSite": "https://www.netflix.com/"
+    },
+    "dvdCountry": null,
+    "externals": {
+    "tvrage": null,
+    "thetvdb": 374984,
+    "imdb": "tt12765530"
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/269/672770.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/269/672770.jpg"
+    },
+    "summary": "<p>Alien reporters Ixbee, Pixbee and Squee travel to a lovely but odd planet called Earth, where they attempt to make sense of humans and their hobbies.</p>",
+    "updated": 1687457929,
+    "_links": {
+    "self": {
+    "href": "https://api.tvmaze.com/shows/48640"
+    },
+    "previousepisode": {
+    "href": "https://api.tvmaze.com/episodes/2049553"
+    }
+    }
+    }
+    },
+    {
+    "score": 0.6943934,
+    "show": {
+    "id": 11479,
+    "url": "https://www.tvmaze.com/shows/11479/alien-encounters",
+    "name": "Alien Encounters",
+    "type": "Documentary",
+    "language": "English",
+    "genres": [
+    "Science-Fiction"
+    ],
+    "status": "Ended",
+    "runtime": 60,
+    "averageRuntime": 60,
+    "premiered": "2012-03-13",
+    "ended": "2014-07-01",
+    "officialSite": null,
+    "schedule": {
+    "time": "22:00",
+    "days": [
+    "Tuesday"
+    ]
+    },
+    "rating": {
+    "average": null
+    },
+    "weight": 82,
+    "network": {
+    "id": 77,
+    "name": "Science",
+    "country": {
+    "name": "United States",
+    "code": "US",
+    "timezone": "America/New_York"
+    },
+    "officialSite": null
+    },
+    "webChannel": null,
+    "dvdCountry": null,
+    "externals": {
+    "tvrage": null,
+    "thetvdb": 267788,
+    "imdb": "tt2816662"
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/401/1003846.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/401/1003846.jpg"
+    },
+    "summary": "<p>On <b>Alien Encounters</b>, scientists and sci-fi writers explore a hypothetical first-contact event between aliens and humans.</p>",
+    "updated": 1677473355,
+    "_links": {
+    "self": {
+    "href": "https://api.tvmaze.com/shows/11479"
+    },
+    "previousepisode": {
+    "href": "https://api.tvmaze.com/episodes/566222"
+    }
+    }
+    }
+    },
+    {
+    "score": 0.691376,
+    "show": {
+    "id": 9142,
+    "url": "https://www.tvmaze.com/shows/9142/alien-dawn",
+    "name": "Alien Dawn",
+    "type": "Scripted",
+    "language": "English",
+    "genres": [
+    "Comedy",
+    "Science-Fiction"
+    ],
+    "status": "Ended",
+    "runtime": 30,
+    "averageRuntime": 30,
+    "premiered": "2013-02-22",
+    "ended": "2014-07-27",
+    "officialSite": null,
+    "schedule": {
+    "time": "22:00",
+    "days": [
+    "Friday"
+    ]
+    },
+    "rating": {
+    "average": null
+    },
+    "weight": 78,
+    "network": {
+    "id": 73,
+    "name": "Nicktoons",
+    "country": {
+    "name": "United States",
+    "code": "US",
+    "timezone": "America/New_York"
+    },
+    "officialSite": null
+    },
+    "webChannel": null,
+    "dvdCountry": null,
+    "externals": {
+    "tvrage": 34543,
+    "thetvdb": 267158,
+    "imdb": "tt2400250"
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/346/865222.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/346/865222.jpg"
+    },
+    "summary": "<p><b>Alien Dawn</b> follows 16- year-old Cameron Turner and his adventures, trying to uncover clues of a mysterious conspiracy hidden in the animated pages of a comic book series created by his missing father.</p>",
+    "updated": 1628089044,
+    "_links": {
+    "self": {
+    "href": "https://api.tvmaze.com/shows/9142"
+    },
+    "previousepisode": {
+    "href": "https://api.tvmaze.com/episodes/494811"
+    }
+    }
+    }
+    },
+    {
+    "score": 0.690099,
+    "show": {
+    "id": 10452,
+    "url": "https://www.tvmaze.com/shows/10452/alien-mysteries",
+    "name": "Alien Mysteries",
+    "type": "Documentary",
+    "language": "English",
+    "genres": [
+    "Science-Fiction",
+    "Mystery"
+    ],
+    "status": "Ended",
+    "runtime": 30,
+    "averageRuntime": 30,
+    "premiered": "2013-03-03",
+    "ended": "2013-03-17",
+    "officialSite": null,
+    "schedule": {
+    "time": "20:00",
+    "days": [
+    "Sunday"
+    ]
+    },
+    "rating": {
+    "average": null
+    },
+    "weight": 75,
+    "network": {
+    "id": 298,
+    "name": "Discovery Channel",
+    "country": {
+    "name": "Canada",
+    "code": "CA",
+    "timezone": "America/Halifax"
+    },
+    "officialSite": null
+    },
+    "webChannel": null,
+    "dvdCountry": null,
+    "externals": {
+    "tvrage": null,
+    "thetvdb": 267430,
+    "imdb": "tt2648204"
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/35/88407.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/35/88407.jpg"
+    },
+    "summary": "<p>Discovery's <b>Alien Mysteries</b> is a fantastically creative and imaginative new take on some of the most enduring UFO mysteries from the last 50 years. Each story is backed up by credible witnesses, investigative reports, and tangible evidence such as physical markings, photographs, radar reports, and videos.</p>",
+    "updated": 1648327657,
+    "_links": {
+    "self": {
+    "href": "https://api.tvmaze.com/shows/10452"
+    },
+    "previousepisode": {
+    "href": "https://api.tvmaze.com/episodes/538504"
+    }
+    }
+    }
+    },
+    {
+    "score": 0.6856383,
+    "show": {
+    "id": 48382,
+    "url": "https://www.tvmaze.com/shows/48382/alien-chronicles",
+    "name": "Alien Chronicles",
+    "type": "Documentary",
+    "language": "English",
+    "genres": [],
+    "status": "Ended",
+    "runtime": null,
+    "averageRuntime": 42,
+    "premiered": "2020-04-01",
+    "ended": "2020-04-01",
+    "officialSite": "https://www.amazon.com/Alien-Chronicles/dp/B0876LDFQW",
+    "schedule": {
+    "time": "",
+    "days": []
+    },
+    "rating": {
+    "average": null
+    },
+    "weight": 70,
+    "network": null,
+    "webChannel": {
+    "id": 3,
+    "name": "Prime Video",
+    "country": null,
+    "officialSite": "https://www.primevideo.com"
+    },
+    "dvdCountry": null,
+    "externals": {
+    "tvrage": null,
+    "thetvdb": 383161,
+    "imdb": null
+    },
+    "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/401/1003834.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/401/1003834.jpg"
+    },
+    "summary": "<p>From the dawn of mankind, they have been here guiding us, monitoring us, perhaps helping us with our advancement, but also manipulating us to some kind of end game. No, we are not alone and never were. From the true stories of credible eyewitnesses, learn fascinating insight into the Alien Presence on Earth and what it may mean for mankind.</p>",
+    "updated": 1653861371,
+    "_links": {
+    "self": {
+    "href": "https://api.tvmaze.com/shows/48382"
+    },
+    "previousepisode": {
+    "href": "https://api.tvmaze.com/episodes/2336493"
+    }
+    }
+    }
+    }
+    ]
