@@ -5,7 +5,6 @@ form.addEventListener("submit", async function(e) {
     e.preventDefault()
     const searchTerm = form.elements.query.value
     const response = await axios.get(`https://api.tvmaze.com/search/shows?q=${searchTerm}`)
-    // const response = await axios.get("./sample.json")
     let showsHtml = makeImages(response.data)
     shows.innerHTML = showsHtml
     console.log(response.data[0])
